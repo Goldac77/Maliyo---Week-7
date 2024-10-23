@@ -1148,7 +1148,8 @@ MonoBehaviour:
   helixLevelPrefab: {fileID: 1448277556501934, guid: f0c9ad13dbd5c4b4dbd703af2bbab6fb, type: 3}
   allStages:
   - {fileID: 11400000, guid: 051d9bbef9606b3418d69bc52c152137, type: 2}
-  - {fileID: 11400000, guid: 051d9bbef9606b3418d69bc52c152137, type: 2}
+  - {fileID: 11400000, guid: 80b75991cac926344a0d4286838633b8, type: 2}
+  - {fileID: 11400000, guid: 9f4db66ed67514648a41910fe4584465, type: 2}
 --- !u!4 &416260902
 Transform:
   m_ObjectHideFlags: 0
